@@ -13,7 +13,7 @@
 <h2><center><br>Product</center></h2>
 </div>
 <div class="pull-right mb-2">
-<a class="btn btn-success" href="{{ route('product.create') }}"> Add Product</a><br>
+<a class="btn btn-success" href="{{ route('product.create') }}"> Add Product Page</a><br>
 </div>
 </div>
 </div>
